@@ -13,7 +13,13 @@ Some basic Japanese only terms to be translated
 
 - 魚
 
+- ラーメン
 
+- シーフード
+
+- パエリア
+
+- 鍋 / なべ
 
 
 
