@@ -7,4 +7,6 @@ List of interesting restaurants
 
 <a href="http://machi-log.jp/spot/?spot=118654" target="_blank">Uokin</a>
 
+<a href="https://www.youtube.com/watch?v=pp7Jrg4nOSc" target="_blank">Uokin Seafood</a>
+
 Wonderful seafood 
