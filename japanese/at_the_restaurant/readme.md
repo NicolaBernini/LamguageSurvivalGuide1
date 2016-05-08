@@ -15,6 +15,16 @@ Basic Japanese Guide at the Restaurant
 
 
 
+## Links 
+
+### Restaurants Guide 
+
+<a href="https://gurunavi.com/" target="_blank">Gurunavi</a>
+
+It is a very good guide and detailed for Japanese Restaurants (Tripadvisor and so on are little less informed)
+
+<br/>
+
 
 
 
