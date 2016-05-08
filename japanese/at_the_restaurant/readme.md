@@ -7,6 +7,8 @@ Basic Japanese Guide at the Restaurant
 
 [Basic Places](basic_places1.md)
 
+[Interesting Restaurants](basic_restaurants1.md)
+
 [Basic Interaction1](basic_interactions1.md)
 
 [Basic Order1](basic_order1.md)
