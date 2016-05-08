@@ -10,3 +10,12 @@ List of interesting restaurants
 <a href="https://www.youtube.com/watch?v=pp7Jrg4nOSc" target="_blank">Uokin Seafood</a>
 
 Wonderful seafood 
+
+| Name  | Specialities  |  Zone | Comment  |
+|---|---|---|---|
+| Uokin  |  Seafood | Tokyo, Shimbashi  | Very interesting |
+
+
+
+
+
