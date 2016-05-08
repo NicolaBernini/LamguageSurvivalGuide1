@@ -5,13 +5,13 @@ Some basic Japanese only terms to be translated
 
 ## Dishes 
 
-# ライス
+- ライス
 
-# 焼き / やき
+- 焼き / やき
 
-焼き鳥 / やきとり
+- 焼き鳥 / やきとり
 
-魚
+- 魚
 
 
 
